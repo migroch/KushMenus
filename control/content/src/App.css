@@ -1,0 +1,31 @@
+/* 
+App component styles
+*/
+
+.App-header {
+  text-align: center;
+  color: black;
+}
+
+.App-logo {
+  #animation: App-logo-spin infinite 20s linear;
+  width: 60px;
+  margin: 20px;
+ }
+
+.App-name {
+  margin: 0;
+}
+
+.App-intro {
+  margin: 0;
+}
+
+.reset-button{
+  margin-right:10px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

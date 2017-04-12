@@ -1,0 +1,12 @@
+/* 
+Item component styles
+*/
+
+/* Use styles from wp-dispensary */
+@import url('https://www.wpdispensary.com/demo/wp-content/themes/wp-dispensary/style.css?ver=4.7.3');
+@import url('https://www.wpdispensary.com/demo/wp-content/plugins/wp-dispensary/public/css/wp-dispensary-public.css?ver=1.9.6');
+@import url('https://www.wpdispensary.com/demo/wp-content/themes/wp-dispensary/css/wp-dispensary.css?ver=4.7.3');
+
+.Item-card{
+  
+}

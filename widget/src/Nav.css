@@ -1,0 +1,34 @@
+/* 
+Nav component styles
+*/
+
+.navbar{
+  height: 50px;
+}
+
+.navbar-header{
+  color: white;
+  height: 50px;
+}
+
+.nav-button{
+  border: none;
+}
+
+.navbar-form{
+  background-color: black;
+  position:relative;
+  top:-10px;
+}
+
+.App-logo {
+  #animation: App-logo-spin infinite 20s linear;
+  width: 30px;
+  margin: 8px 10px 8px 10px;
+ }
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

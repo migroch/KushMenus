@@ -1,0 +1,11 @@
+/* 
+App component styles
+*/
+
+.App {
+  padding: 0;
+}
+
+.noItems-txt {
+  text-align:center;
+}
